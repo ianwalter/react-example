@@ -1,7 +1,7 @@
 {
   "name": "react-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple example of a Webpack-generated React application",
   "main": "webpack.config.js",
   "dependencies": {
     "react": "^16.2.0",
@@ -16,14 +16,14 @@
     "clean-webpack-plugin": "^0.1.18",
     "html-webpack-plugin": "^2.30.1",
     "webpack": "^3.10.0",
-    "webpack-dev-server": "^2.11.1"
+    "webpack-dev-server": "^3.1.7"
   },
   "scripts": {
     "build": "webpack",
     "start": "webpack-dev-server"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ian Walter <public@iankwalter.com> (https://iankwalter.com)",
   "license": "ISC",
   "babel": {
     "presets": [
