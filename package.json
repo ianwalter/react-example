@@ -4,7 +4,7 @@
   "description": "A simple example of a Webpack-generated React application",
   "main": "webpack.config.js",
   "dependencies": {
-    "react": "^16.2.0",
+    "react": "^16.5.2",
     "react-dom": "^16.2.0"
   },
   "devDependencies": {
