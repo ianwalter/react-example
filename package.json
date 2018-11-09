@@ -30,7 +30,6 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10"
   },
-  "keywords": [],
   "author": "Ian Walter <public@iankwalter.com> (https://iankwalter.com)",
   "license": "Apache 2.0 with Commons Clause",
   "babel": {
