@@ -31,7 +31,7 @@
     "webpack-dev-server": "^3.1.14"
   },
   "author": "Ian Walter <public@iankwalter.com> (https://iankwalter.com)",
-  "license": "Apache 2.0 with Commons Clause",
+  "license": "SEE LICENSE IN LICENSE",
   "babel": {
     "presets": [
       "@babel/preset-env",
