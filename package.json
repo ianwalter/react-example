@@ -43,12 +43,9 @@
     "parserOptions": {
       "parser": "babel-eslint"
     },
-    "env": {
-      "browser": true
-    },
     "extends": [
-      "standard",
       "eslint:recommended",
+      "standard",
       "plugin:react/recommended"
     ],
     "plugins": [
@@ -56,7 +53,7 @@
     ],
     "settings": {
       "react": {
-        "version": "16.6"
+        "version": "16.8"
       }
     }
   }
