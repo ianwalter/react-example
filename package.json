@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.4",
     "@ianwalter/eslint-config-react": "^1.0.2",
     "@ianwalter/renovate-config": "^1.2.0",
