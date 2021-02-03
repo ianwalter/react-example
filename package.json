@@ -13,7 +13,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.12.13",
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-react": "^7.12.10",
     "@ianwalter/eslint-config-react": "^4.0.0",
